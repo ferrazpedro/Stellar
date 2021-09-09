@@ -1083,7 +1083,7 @@ namespace Stellar
                 }
 
                 // Set Cores Folder (Dont Scan PC)
-                Paths.coresPath = Paths.retroarchPath + "cores\\";
+                Paths.coresPath = Paths.retroarchPath + "RetroArch-Win64\\cores\\";
                 // Call Parse Builtbot Page Method
                 Parse.ParseBuildbotCoresIndex();
             }

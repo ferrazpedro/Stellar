@@ -674,7 +674,7 @@ namespace Stellar
         {
             // Cores Folder
             // end with backslash RetroArch\cores\
-            Paths.coresPath = Paths.retroarchPath + "cores\\"; 
+            Paths.coresPath = Paths.retroarchPath + "RetroArch-Win64\\cores\\"; 
 
             try // program will crash if files not found
             {
